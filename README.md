@@ -7,7 +7,7 @@ Passionate about building scalable web apps, real-time systems, and clean backen
 - 🌱 Learning **Rust** to design production-grade backend microservices.  
 - 💡 Interested in **system design, performance optimization, and developer tools**.  
 - 📫 Reach me at: **saurabhtamta18@gmail.com**  
-- ⚡ Fun fact: I started with C++ and competitive programming before diving into full-stack development.
+- ⚡ I started with C++ and competitive programming before diving into full-stack development.
 - 🎓 B.Tech (Computer Science), Birla Institute of Applied Science — 2023  
 - 💼 1 year of experience as a Customer Success Engineer  
 
